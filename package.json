@@ -1,0 +1,16 @@
+{
+  "name": "proyecto_neo",
+  "version": "1.0.0",
+  "description": "Sistema de validación y verificación de software NEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
